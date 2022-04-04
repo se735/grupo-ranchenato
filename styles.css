@@ -189,6 +189,7 @@ color: white;
 padding-bottom: 30px;
 font-size: 50px;
 text-align: center;
+margin-left: 100px;
 
 }
 
@@ -265,7 +266,7 @@ text-align: center;
         padding: 0 0;
     }
     .descripcion h2{
-        
+        margin: 0 0;
      
     }
 
@@ -286,8 +287,19 @@ text-align: center;
 
     .what img{
         width: 70px;
+        margin: 0 0;
+        
     }
 
+    .what {
+        margin: 10px 10px;
+        
+    }
+
+    .llamar{
+        margin: 100px 10px;
+    }
+    
     .background{
         flex-direction: column-reverse;
     }
