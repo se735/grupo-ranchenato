@@ -66,6 +66,7 @@ a{
     
 }
 
+
 .what img{
     width: 80px;
     transition: 0.5s;
@@ -282,11 +283,11 @@ margin-left: 100px;
     }
 
     .llamar img{
-        width: 70px;
+        width: 60px;
     }
 
     .what img{
-        width: 70px;
+        width: 60px;
         margin: 0 0;
         
     }
@@ -307,8 +308,8 @@ margin-left: 100px;
     .descripcion{
         flex-direction: column;
     }
- .logo{
-        width: 40px;
+    .logo{
+        width: 100px;
         height: 80px;
     }
 
