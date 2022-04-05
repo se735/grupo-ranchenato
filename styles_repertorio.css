@@ -30,6 +30,11 @@ footer{
 .logo{
     height: 140px;
     width: 200px;
+    transition: 0.4s;
+}
+
+.logo:hover{
+    transform: scale(1.20);
 }
 
 header a{
@@ -178,6 +183,7 @@ aside{
 
 .mostrar-menu{
     padding-bottom: 10px;
+    font-size: 42px;
 }
     .esconder-menu{
         position: absolute;
@@ -223,7 +229,7 @@ aside{
     }
 
     .repertorio div{
-        padding: 10px 40px;
+        padding: 10px 10px;
     }
 
     .repertorio h2{
@@ -237,4 +243,8 @@ aside{
     .repertorio{
         flex-direction: column;
         padding-top: 80px;
+    }
+
+     header a{
+        padding: 0 3px;
     }
