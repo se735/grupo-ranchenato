@@ -307,15 +307,15 @@ margin-left: 100px;
     .descripcion{
         flex-direction: column;
     }
-    .logo{
-        width: 130px;
-        height: 100px;
+ .logo{
+        width: 100px;
+        height: 80px;
     }
 
     footer{
         width: 100%;
     }
-   
+
     .redes{
-        max-width: 40px;
+        max-width: 35px;
     }
